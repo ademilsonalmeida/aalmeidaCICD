@@ -26,7 +26,7 @@ namespace aalmeidaCICD.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Olá, QA!!!");
+            return Ok("Olá, QA!");
         }
     }
 }
