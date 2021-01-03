@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj": {}
+    "C:\\dev\\aalmeidaAPI\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj": {}
   },
   "projects": {
-    "C:\\dev\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj": {
+    "C:\\dev\\aalmeidaAPI\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj",
+        "projectUniqueName": "C:\\dev\\aalmeidaAPI\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj",
         "projectName": "aalmeidaCICD.API",
-        "projectPath": "C:\\dev\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj",
+        "projectPath": "C:\\dev\\aalmeidaAPI\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj",
         "packagesPath": "C:\\Users\\ademi\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\aalmeidaCICD\\aalmeidaCICD.API\\obj\\",
+        "outputPath": "C:\\dev\\aalmeidaAPI\\aalmeidaCICD\\aalmeidaCICD.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m/PdJBeYOqMadKKNy5caJ5ZGsyY1EuJASH1xvo99Bhw+wAyVzermu5pjX3BczJBOFG5UZ6hV74iO7qR4NB9Y8A==",
+  "dgSpecHash": "X7S02MRCIJdInHQBurt+Twm3DQwCTkBCcDDyWpInSrqDoEoYj0AzWJcDlz3FAeXg6iHO9Jyk57aTLIbzOgH1Wg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj",
+  "projectFilePath": "C:\\dev\\aalmeidaAPI\\aalmeidaCICD\\aalmeidaCICD.API\\aalmeidaCICD.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
